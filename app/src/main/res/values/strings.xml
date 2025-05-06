@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Projeto Profile</string>
+    <string name="logo">Logo Description</string>
+    <string name="details">Details</string>
+    <string name="jenny">Jenny Wilson</string>
+    <string name="sr">Sr. UI/UX Designer</string>
+    <string name="email">Email </string>
+    <string name="call">Call </string>
+    <string name="wpp">Whatsapp  </string>
+    <string name="favorite">Favorite </string>
+    <string name="official">Official </string>
+    <string name="email_mich">michael.mitc@example.com </string>
+    <string name="email_mich2">michael@example.com </string>
+    <string name="personal">Personal </string>
+    <string name="phone_number">Phone Number </string>
+    <string name="mobile">Mobile </string>
+    <string name="number">(209) 555–0104 </string>
+    <string name="team">Team </string>
+    <string name="project_operation_team">Project Operation Team </string>
+    <string name="leads_by">Leads by </string>
+    <string name="darrell_steward">Darrell Steward </string>
+    <string name="add">Add to contact  </string>
+</resources>
